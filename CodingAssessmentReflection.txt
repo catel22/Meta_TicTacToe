@@ -1,0 +1,9 @@
+Coding Assessment Reflection:
+If I had more time, I would create a better user experience and fix the comments in my code.
+I recently completed a ConnectFour assignment, so I felt prepared to tackle the prompt.
+I began by building a basic tic-tac-toe with player and miniboard classes. I then implemented the 'bigBoard' class.
+I struggled with the string representation of the metaboard. I also did not have time to fully test my implementation. 
+At the end of two hours, I had issues with the string representation of the metaboard,
+and the placement of the checker in each individual board, as it would sometimes duplicate into other boards.
+Overall, I feel that if I had another 30 minutes I could clean up the functionality of the program to make it 
+fully functional and readable. I am satisfied with the foundation of the program.
